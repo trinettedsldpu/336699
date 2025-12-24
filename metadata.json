@@ -1,0 +1,7 @@
+{
+  "name": "Christmas HoloCard",
+  "description": "A 3D interactive Christmas card featuring gesture control and photo gallery capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
